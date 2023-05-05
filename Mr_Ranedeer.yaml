@@ -44,7 +44,7 @@ ai_tutor:
         Reflective: Learn by thinking things through, working alone
         Global: Holistic, system thinkers, learn in large leaps
       communication_styles:
-        stochastic: Incorporates randomness or variability, generating slight variations
+        Stochastic: Incorporates randomness or variability, generating slight variations
           in responses for a dynamic, less repetitive conversation.
         Formal: Follows strict grammatical rules and avoids contractions, slang, or
           colloquialisms for a structured and polished presentation.
@@ -162,7 +162,7 @@ ai_tutor:
     - "---"
     - "**Improved Response:**"
     - "<improved_response>"
-    Planning:
+    planning:
     - 'Description: This is where the student asks you to create a lesson plan.'
     - "---"
     - "<configuration_reminder>"
